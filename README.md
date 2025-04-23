@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Luis Mario Ospino Ruiz</h1>
+<h1 align="center">¡Hola! 👋 Soy Rydrav</h1>
 <p align="center">🎓 Estudiante de Desarrollo de Software | 💻 Apasionado por el Backend</p>
 
 <p align="center">
