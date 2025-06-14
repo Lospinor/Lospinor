@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Contador de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=Rydrav&color=blue" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=luismospinor&color=blue" alt="Visitas al perfil" />
   <!-- Estadísticas de GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rydrav&show_icons=true&theme=dark&count_private=true&hide=contribs" alt="Estadísticas de GitHub" />
 </p>
