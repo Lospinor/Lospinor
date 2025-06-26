@@ -13,7 +13,7 @@
 ## 🚀 Sobre Mí
 - 🌱 Actualmente profundizando en **arquitectura de microservicios**, **APIs REST** y **bases de datos distribuidas**.  
 - 💡 Me apasiona optimizar rendimiento y escribir código limpio y mantenible.  
-- 🎯 Mi objetivo: Convertirme en **Desarrollador Backend** experto en soluciones escalables.
+- 🎯 Mi objetivo: Convertirme en **Desarrollador Backend**.
 
 ---
 
@@ -37,10 +37,9 @@
 ## 🏗️ Proyectos Destacados
 | Proyecto       | Descripción                                                                                       | Tech Stack                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **SpecsGaming**| Recomendador de videojuegos basado en las características de tu hardware y tus gustos personales.  | Next.js • React • Node.js • MongoDB • Tailwind CSS         |
-| **Toolorium**  | Colección de herramientas web: calculadoras, sorteadores y mucho más, todo en una sola página.     | HTML5 • CSS3 • JavaScript                                  |
+| **SpecsGaming**| Recomendador de videojuegos basado en las características de tu hardware y tus gustos personales.  | Next.js • React • Node.js • MongoDB • Tailwind CSS      
 
-> 🔗 [Ver todos mis proyectos](https://github.com/Rydrav?tab=repositories)
+> 🔗 [Ver todos mis proyectos](https://github.com/luismospinor?tab=repositories)
 
 ---
 
